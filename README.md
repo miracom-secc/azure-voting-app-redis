@@ -3,7 +3,7 @@ page_type: sample
 languages:
   - python
 products:
-  - azure
+  - azure 
   - azure-redis-cache
 description: "This sample creates a multi-container application in an Azure Kubernetes Service (AKS) cluster."
 ---
